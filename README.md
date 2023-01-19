@@ -11,6 +11,6 @@ Website about my Computer Science Portfolio
     <a href="portfolio.html">Portfolio</a>
     <a href="aboutme.html">About Me</a>
     <h1>This is Georgi Andreev's Home Page!</h1>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/XHXKJqQp-Is" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/XHXKJqQp-Isautoplay=1&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </body></html>
