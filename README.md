@@ -7,9 +7,9 @@ Website about my Computer Science Portfolio
     <title>Georgi's Website</title>
   </head>
   <body bgcolor="#DAF7A6">
-    <a href="file:///H:/Chrome%20Downloads/index.html">Home</a>
-    <a href="file:///H:/Chrome%20Downloads/portfolio.html">Portfolio</a>
-    <a href="file:///H:/Chrome%20Downloads/aboutme.html">About Me</a>
+      <a href="intex.html">Home</a>
+    <a href="portfolio.html">Portfolio</a>
+    <a href="aboutme.html">About Me</a>
     <h1>This is Georgi Andreev's Home Page!</h1>
     <img src="file:///H:/Chrome%20Downloads/images/BunleaHome.JPG" height="500">
   
