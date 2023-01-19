@@ -11,7 +11,21 @@ Website about my Computer Science Portfolio
     <a href="portfolio.html">Portfolio</a>
     <a href="aboutme.html">About Me</a>
     <h1>This is Georgi Andreev's Home Page!</h1>
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=XHXKJqQp-Is/embed/VIDEO_ID" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <script>
+var x = document.getElementById("demo");
+function getLocation() {
+  if (navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(showPosition);
+  } else {
+    x.innerHTML = "Geolocation is not supported by this browser.";
+  }
+}
+
+function showPosition(position) {
+  x.innerHTML = "Latitude: " + position.coords.latitude +
+  "<br>Longitude: " + position.coords.longitude;
+}
+</script>
   
 
 </body></html>
