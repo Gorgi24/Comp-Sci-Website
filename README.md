@@ -6,12 +6,12 @@ Website about my Computer Science Portfolio
     
     <title>Georgi's Website</title>
   </head>
-  <body bgcolor="#DAF7A6">
+  <body bgcolor="#2c4e31">
       <a href="intex.html">Home</a>
     <a href="portfolio.html">Portfolio</a>
     <a href="aboutme.html">About Me</a>
     <h1>This is Georgi Andreev's Home Page!</h1>
-    <img src="file:///H:/Chrome%20Downloads/images/BunleaHome.JPG" height="500">
+    <iframe width="560" height="315" src="https://https://www.youtube.com/watch?v=XHXKJqQp-Is/embed/VIDEO_ID" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 
 </body></html>
